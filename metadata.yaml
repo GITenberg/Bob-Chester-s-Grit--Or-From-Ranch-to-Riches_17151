@@ -1,0 +1,37 @@
+_repo: Bob-Chester-s-Grit--Or-From-Ranch-to-Riches_17151
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Webster, Frank V.
+    gutenberg_agent_id: '1955'
+    url: http://www.gutenberg.org/2009/agents/1955
+description: '"Bob Chester had always wanted to go back West.  In fact, love of the
+  West was in Bob''s blood, for his father before him had been a rancher in Oklahoma.  But
+  at Mr. Chester''s death, the boy was sent East and placed under the guardianship
+  pf Len Dardus, a miserly and unscrupulous old grocer.  The father had left a letter
+  for his son, with the instructions that he should open it on his tenth birthday,
+  and so for several years now Bob had known that his father had left five thousand
+  dollars for him.  Life as Mr. Dardus'' grocery helper becomes more and more intolerable,
+  and Bob makes up his mind that he will go West.  However, when he asks his guardian
+  for the money.  The father was insane at the time of his death, Mr. Dardus explains,
+  and merely imagined that he had the five thousand dollars.  Consequently, all that
+  Bob has in the world is the fifteen dollars which he has managed to save from his
+  two-dollar-a-week wages.  And so, with much grit and little else, Bob starts out.  How
+  he overcomes his obstacles makes an interesting success story"--Dust jkt.'
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2005-11-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17151'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ranch life -- Juvenile fiction'
+- !lcc 'PZ'
+title: Bob Chester's Grit; Or, From Ranch to Riches
+url: http://www.gutenberg.org/ebooks/17151
